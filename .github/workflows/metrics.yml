@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: horvathbalazsgyorgy
 
-          base: header, activity, repositores, metadata
+          base: header, activity, repositories, metadata
 
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -27,7 +27,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
 
           plugin_calendar: yes
 
