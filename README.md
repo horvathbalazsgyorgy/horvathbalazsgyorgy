@@ -1,4 +1,4 @@
-## Hi there, I am Balázs Horváth!👋
+# Hi there, I am Balázs Horváth!👋
 
 I'm a Computer Engineering student at BME. I am passionate about C++ software engineering, computer graphics and building complex systems from the ground up.
 
@@ -36,18 +36,11 @@ I'm a Computer Engineering student at BME. I am passionate about C++ software en
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
 </p>
 
-## Featured Project
+## Development Analytics
 
-### [Project Laboratory: PBR Rendering Engine](https://github.com/horvathbalazsgyorgy/BMEIIT-Project-Laboratory)
-A real-time, physically-based rendering (PBR) engine built from scratch in modern C++20 and OpenGL.
-
-> **Project Status:** The *Project Laboratory (Önálló laboratórium)* phase is now successfully completed, marking a major milestone. Development is currently on a planned hiatus and **will officially resume as my Bachelor's Thesis (Szakdolgozat)**.
-
-**Key Features include:**
-
-- Cook-Torrance BRDF microfacet model
-- Image Based Lighting
-- Fully custom modular framework
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 <!--
 **horvathbalazsgyorgy/horvathbalazsgyorgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
